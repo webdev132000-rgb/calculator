@@ -13,6 +13,10 @@ A simple calculator application that performs basic arithmetic operations with a
 - CSS
 - JavaScript
 
+- ## ⚡ Functionality
+- Button-based input system
+- Keyboard support (optional)
+
 ## 📌 Project Goal
 This project was built to practice JavaScript logic, event handling, and building functional UI components.
 
